@@ -1,0 +1,94 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Titan Remodeling LLC | 30% OFF TV Mounting</title>  
+    <style>  
+        :root {  
+            --gold: #d4af37;  
+            --black: #0a0a0a;  
+            --dark-grey: #1a1a1a;  
+            --white: #ffffff;  
+            --alert-red: #b22222;  
+        }  
+        body { font-family: 'Arial', sans-serif; margin: 0; background-color: var(--black); color: var(--white); line-height: 1.6; }  
+          
+        /* Promo Banner */  
+        .promo-banner { background: var(--alert-red); color: white; text-align: center; padding: 10px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; border-bottom: 2px solid var(--gold); }  
+  
+        /* Header & Logo */  
+        header { text-align: center; padding: 40px 20px; background: linear-gradient(to bottom, #111, #000); }  
+        .logo { max-width: 250px; margin-bottom: 20px; }  
+          
+        /* Hero Section */  
+        .hero-text h1 { font-size: 2.5rem; color: var(--gold); margin: 10px 0; text-transform: uppercase; }  
+        .hero-text p { font-size: 1.2rem; color: #ccc; margin-bottom: 25px; }  
+  
+        /* Trust Bar */  
+        .trust-bar { background: var(--gold); color: black; padding: 15px; text-align: center; font-weight: bold; font-size: 1rem; }  
+  
+        /* Services Section */  
+        .container { padding: 40px 20px; max-width: 1000px; margin: auto; }  
+        .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px; }  
+        .feature-card { background: var(--dark-grey); padding: 25px; border-radius: 10px; border-left: 5px solid var(--gold); }  
+        .feature-card h3 { color: var(--gold); margin-top: 0; }  
+  
+        /* CTA Button */  
+        .cta-btn { display: inline-block; background: var(--gold); color: black; padding: 18px 35px; text-decoration: none;   
+                   border-radius: 5px; font-weight: bold; font-size: 1.2rem; transition: 0.3s; }  
+        .cta-btn:hover { background: white; color: black; }  
+  
+        footer { text-align: center; padding: 40px; color: #666; font-size: 0.8rem; border-top: 1px solid #222; }  
+    </style>  
+</head>  
+<body>  
+  
+<div class="promo-banner">  
+    🚨 LIMITED TIME: 30% OFF ALL TV MOUNTING SERVICES THIS MONTH & NEXT! 🚨  
+</div>  
+  
+<header>  
+    <img src="logo.png" alt="Titan Remodeling LLC Logo" class="logo">  
+    <div class="hero-text">  
+        <h1>Titan TV Mounting</h1>  
+        <p>Premium Installation. Fully Insured. All Wall Types.</p>  
+        <a href="tel:3015385906" class="cta-btn">CLAIM 30% DISCOUNT: 301-538-5906</a>  
+    </div>  
+</header>  
+  
+<div class="trust-bar">  
+    DRYWALL • BRICK • STONE • CONCRETE • CONCEALED WIRING  
+</div>  
+  
+<section class="container">  
+    <div class="features">  
+        <div class="feature-card">  
+            <h3>Precision Hanging</h3>  
+            <p>From 32" to 100"+ screens. We ensure every mount is perfectly level and anchored to the highest safety standards.</p>  
+        </div>  
+        <div class="feature-card">  
+            <h3>Specialized in All Walls</h3>  
+            <p>Don't let brick or stone stop you. We use specialized masonry anchors to ensure your TV stays exactly where it belongs.</p>  
+        </div>  
+        <div class="feature-card">  
+            <h3>Clean Look Guarantee</h3>  
+            <p>We specialize in in-wall cable concealment to give your room that "floating" high-end aesthetic.</p>  
+        </div>  
+    </div>  
+</section>  
+  
+<section style="background-color: var(--dark-grey); text-align: center; padding: 60px 20px; margin-top: 20px;">  
+    <h2 style="color: var(--gold);">Don't Miss Your 30% Discount</h2>  
+    <p>Professional, insured mounting at a fraction of the cost. Call the Titans today.</p>  
+    <p style="font-size: 2rem; color: var(--gold);"><strong>301-538-5906</strong></p>  
+    <p style="font-size: 0.9rem; color: #888;">*Discount applied to labor costs for new bookings this month and next.</p>  
+</section>  
+  
+<footer>  
+    &copy; 2026 Titan Remodeling LLC. | Maryland/DC/VA Area <br>  
+    Expert TV Mounting & Professional Installation.  
+</footer>  
+  
+</body>  
+</html>  
